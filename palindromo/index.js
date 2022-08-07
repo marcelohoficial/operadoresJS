@@ -15,5 +15,3 @@ function verificaPalindromo2(string) {
 
   return true
 }
-
-console.log(verificaPalindromo2("arara"))
